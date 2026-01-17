@@ -61,7 +61,7 @@ export default function Home() {
             <Users className="text-pantanize-green mb-6" size={32} />
             <h3 className="text-2xl font-bold mb-3 text-pantanize-dark text-pantanize-dark">Quem Somos</h3>
             <p className="text-gray-600 leading-relaxed text-sm md:text-base">
-              Idealizado por <strong>Claudielle, Rafaela e Sara Annanda</strong> do Instituto JCPM Aracaju.
+              Idealizado por <strong>Claudielli, Rafaela e Sara Annanda</strong> que decidiram mostrar o rosto de uma comunidade que há muito tempo não era vista: o Pantanal.
             </p>
           </article>
           <article className="bg-white p-8 rounded-3xl shadow-xl border-b-8 border-pantanize-dark transform hover:-translate-y-2 transition-all duration-300">
