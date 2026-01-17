@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Ajustado para subir apenas um nível (../) */
+@config "../tailwind.config.ts";
+
+:root {
+  --background: #FDFCF0;
+  --foreground: #1A330E;
+}
+
+@layer base {
+  body {
+    @apply bg-pantanize-cream text-pantanize-dark antialiased;
+  }
+}
+
+.main-container {
+  scroll-behavior: smooth;
+}
